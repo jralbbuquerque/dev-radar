@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="DevRadar" title="#delicinha" src=".github/devradar.svg" width="250px" />
+</h1>
+
 ## Overview
 O <b>Dev Radar</b> é um projeto desenvolvido na Semana Omnistack 10.0 ofertada pela [Rockseat](https://rocketseat.com.br/) 
 e ministrada pelo mestre [Diego Fernandes](https://github.com/diego3g). Essa aplicação objetiva auxiliar pessoas a encontrarem
@@ -27,6 +31,10 @@ Para executar esse repositório baixe-o para sua maquina ou realize um `Git Clon
 - abra a pasta `dev-radar/mobile/` no seu shell e em seguida: 
 - `$ yarn install` - esse comando irá instalar todos os módulos necessários para o funcionamento do React Native
 - `$ yarn start` - esse comando irá iniciar o servidor  de desenvolvimento do Expo 
+
+## Layout da Aplicação
+O layout do projeto, disponibilizado pela equipe da Rocketseat, está disponível no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
 
 ## Como contribuir
 - Fork esse repositório;
